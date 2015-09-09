@@ -42,9 +42,9 @@ Machine Learning
     - Priors
     - Sparsity
 - Overfitting
-    - Cross validation
+- Cross validation
 - Model capacity
-    - VC dimensionality 
+    - VC dimensionality
 
 - Other topics
     - Hidden Markov Models
@@ -114,9 +114,9 @@ Machine Learning
     - Sorting
     - Graph shortest paths
     - BFS, DFS, A* search
-- Dynamic Programming
-- Shuffling
-- Local Sensitive Hashing
+    - Dynamic Programming
+    - Shuffling
+    - Local Sensitive Hashing
 
 - Data Structures
     - Hash tables
