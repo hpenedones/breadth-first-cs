@@ -1,5 +1,5 @@
 # breadth-first-cs
-A book covering Computer Science topics in a breadth first way, with a bias towards Machine Learning
+A Table of Contents of a book that I dream of writing, covering Computer Science topics in a breadth first way, with a bias towards Machine Learning.
 
 Machine Learning
 - Supervised Learning 
